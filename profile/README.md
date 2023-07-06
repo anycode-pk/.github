@@ -1,5 +1,6 @@
-# Grupa .NET Politechniki Koszalińskiej
+# Students Scientific Club "AnyCode" of Technical University at Koszalin
 
-Jesteśmy grupą studentów, która chce tworzyć swoje oprogramowanie, zdobywać nowe umiejętności, jeździć na wydarzenia, a przede wszystkim dobrze się przy tym bawić.
+We are working together to create our own apps.
 
-https://grupa-dot-net.jetbrains.space
+https://anycode.jetbrains.space/
+
